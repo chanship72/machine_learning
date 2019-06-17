@@ -1,14 +1,17 @@
 # Machine Learning 
-CSCI567 - Programming Assignment
+Projects - CSCI567 Machine Learning coursework
 
-## 1. PA1 
-### a. KNN (hw1_knn.py, utils.py)
-\- Input: heart_disease.csv <br>
-### b. Decision Tree (hw1_dt.py, utils.py)
-\- Input : car.data (7 features) 
+## 1. KNN(K-Nearest Neighbour)
 
-## 2. PA2 
-### a. Linear Regression (part1 - linear_regression.py)
-\- Input: winequality-white.csv
-### b. Logistic Regression (part2 - classification.py)
-\- Input: mnist_subset.json
+## 2. Decision Tree
+
+## 3. Classification (Binary, Multiclass)
+
+## 4. Regression(Linear, Regularization, Polynomial)
+
+## 5. Neural Network
+
+## 6. HMM (Hidden Markov Model)
+
+## 7. Kmeans Clustering
+
